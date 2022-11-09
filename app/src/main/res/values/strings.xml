@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">GameScreen</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="shareGame">Share Game</string>
+    <string name="descriptions">Description</string>
+    <string name="applyInternship">Play Game</string>
+    <string name="lets_go">Let\'s Go</string>
+    <string name="editphoto">Edit Photo</string>
+    <string name="apply">Play</string>
+    <string name="benefit">Requirements:</string>
+    <string name="requirements">How to play:</string>
+    <string name="good_morning">Good Morning</string>
+    <string name="name">Patricia</string>
+    <string name="find_game">Find Game To Play...</string>
+    <string name="latestgames">Latest Games</string>
+    <string name="profilename">Patricia</string>
+    <string name="see_all">See All</string>
+    <string name="popular">Popular This Month</string>
+    <string name="allgames">All Games</string>
+    <string name="on_boarding_1">Welcome to GameScreen!</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="requirement_gojek">
+        <item>sample text</item>
+    </string-array>
+    <string-array name="howtoplay_tetris">
+        <item>The aim in Tetris is simple; you bring down blocks from the top of the screen.
+        You can move the blocks around, either left to right and/or you can rotate them.
+        The blocks fall at a certain rate, but you can make them fall faster if you are sure of your positioning.</item>
+    </string-array>
+    <string-array name="howtoplay_2048">
+        <item>Use your arrow keysSwipe with your fingers to move the tiles. Tiles with the same number merge into one when they touch. Add them up to reach 2048!</item>
+    </string-array>
+    <string-array name="howtoplay_monopoly">
+        <item>Starting with the Banker, each player throws the dice. The player with the highest total starts the play.
+Then each player places his token on the corner marked "GO", and throw the dice and move his the number of spaces indicated by the dice.</item>
+    </string-array>
+    <string-array name="howtoplay_scrabble">
+        <item>
+A player begins the game by placing a word on the star square at the center of the board. This star acts as a double word score.
+            The star cell does not act as a double word score for subsequent players playing off the center square. Play continues in a clockwise direction around the Scrabble board.</item>
+    </string-array>
+    <string-array name="howtoplay_drawmy">
+        <item>One player is the artist - when their turn starts, they get 3 words to choose from, and then they have to draw the chosen word.
+            The other players try to guess what the artist is drawing.</item>
+    </string-array>
+    <string-array name="howtoplay_glowhockey">
+        <item>Enjoy this unique air hockey game with neon lights and a futuristic vibe! Hit the disc and make it slide into your enemies net. Protect your side and win!</item>
+    </string-array>
+    <string-array name="howtoplay_tictactoe">
+        <item>When you’re the first one up, there is a simple strategy on how to win tic tac toe: put your ‘X’ in any corner.
+            This move will pretty much send you to the winner’s circle every time, so long as your opponent doesn’t put their first ‘O’ in the center box.</item>
+    </string-array>
+    <string-array name="howtoplay_checkers">
+        <item>Play consists of advancing a piece diagonally forward to an adjoining vacant square.
+            Black moves first. If an opponent"s piece is in such an adjoining vacant square, with a vacant space beyond, it must be captured and removed by jumping over it to the empty square.</item>
+    </string-array>
+    <string-array name="htp_tetris">
+        <item>sample text</item>
+        <item>sample text</item>
+    </string-array>
+    <string-array name="requirement_microsoft">
+        <item>sample text</item>
+    </string-array>
+    <string-array name="benefit_microsoft">
+        <item>sample text</item>
+        <item>sample text</item>
+    </string-array>
+</resources>
